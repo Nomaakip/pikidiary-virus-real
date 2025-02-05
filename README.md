@@ -1,4 +1,7 @@
 # pikidiary-virus-real
+Prank your friends with rhis extension!
+
+## For chrome:
 
 - Click code then download zip
 
@@ -13,3 +16,18 @@
 - Select the extension folder
 
 - Enjoy!
+## For firefox
+
+- Click code then download zip
+
+- extract the zip you just downloaded
+
+- Go to about:debugging#/runtime/this-firefox
+
+- Click "Load Temporary Add-on"
+
+- Load the ZIP file you just downloaded
+
+- shit yourself because piki
+
+- **i** Note that this is only for as long as Firefox is active. If you decide to restart, you have to reinstall the add-on.
