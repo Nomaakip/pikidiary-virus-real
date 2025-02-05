@@ -1,0 +1,22 @@
+{
+    "browser_specific_settings": {
+      "gecko": {
+      "id": "nomaakip@gmail.com",
+      "strict_min_version": "58.0"
+      }
+    },
+  
+      "name": "PikiDiary virus",
+      "version": "0.0.1",
+      "description": "Your borwser is now infected with thousand of pikidiary images!!1!!1!",
+      "manifest_version": 3,
+      "action": {
+          "default_popup": "popup/index.html"
+      },
+      "content_scripts": [
+        {
+          "matches": ["https://*/*"],
+          "js": ["main.js"]
+        }
+    ]
+  }
