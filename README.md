@@ -1,5 +1,5 @@
 # pikidiary-virus-real
-Prank your friends with rhis extension!
+Prank your friends with this extension!
 
 ## For chrome:
 
