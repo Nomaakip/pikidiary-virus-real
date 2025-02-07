@@ -16,4 +16,5 @@
     div.style.zIndex = '1001';
     document.body.appendChild(div);
 }, 0);
-        
+
+document.body.style.overflow = 'hidden';
